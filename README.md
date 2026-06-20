@@ -6,8 +6,8 @@
 
 Bengaluru, India · Building in public · #100DaysOfDevOps
 
-[!\[LinkedIn](https://www.linkedin.com/in/moomin-rasool/)](https://linkedin.com/in/YOUR_LINKEDIN)
-[!\[X](https://x.com/MoominRasool\_)](https://x.com/YOUR_X_HANDLE)
+[!\[LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN):https://www.linkedin.com/in/moomin-rasool/
+[!\[X](https://img.shields.io/badge/X-000000?style=flat-square\&logo=x\&logoColor=white)](https://x.com/YOUR_X_HANDLE):https://x.com/MoominRasool\_
 
 </div>
 
@@ -51,7 +51,7 @@ AWS · Azure · GCP                 Trivy · Prometheus · Grafana
 
 * \[x] Linux administration — used in production at Foxconn
 * \[x] Python automation \& shell scripting
-* \[ ] Docker — containerization, multi-stage builds, image scanning
+* \[x] Docker — containerization, multi-stage builds, image scanning
 * \[ ] Kubernetes — in progress
 * \[ ] CI/CD with GitHub Actions
 * \[ ] Terraform + Ansible (IaC)
