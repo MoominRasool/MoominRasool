@@ -6,8 +6,8 @@
 
 Bengaluru, India · Building in public · #100DaysOfDevOps
 
-[!\[LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN):https://www.linkedin.com/in/moomin-rasool/
-[!\[X](https://img.shields.io/badge/X-000000?style=flat-square\&logo=x\&logoColor=white)](https://x.com/YOUR_X_HANDLE):https://x.com/MoominRasool\_
+[!\[LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/moomin-rasool/)
+[!\[X](https://img.shields.io/badge/X-000000?style=flat-square\&logo=x\&logoColor=white)](https://x.com/MoominRasool\_)
 
 </div>
 
