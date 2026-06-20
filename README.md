@@ -7,7 +7,6 @@
 Bengaluru, India · Building in public · #100DaysOfDevOps
 
 [[LinkedIn]](https://www.linkedin.com/in/moomin-rasool)
-
 [[X]](https://x.com/MoominRasool_)
 
 </div>
