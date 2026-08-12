@@ -50,8 +50,8 @@ AWS · Azure · GCP                 Trivy · Prometheus · Grafana
 ## 📍 Roadmap
 
 * \[x] Linux administration — used in production at Foxconn
-* \[x] Python automation \& shell scripting
-* \[x] Docker — containerization, multi-stage builds, image scanning
+* \[ ] Python automation \& shell scripting
+* \[ ] Docker — containerization, multi-stage builds, image scanning
 * \[ ] Kubernetes — in progress
 * \[ ] CI/CD with GitHub Actions
 * \[ ] Terraform + Ansible (IaC)
@@ -72,7 +72,7 @@ Automated internal workflows with Python · Managed RHEL/CentOS/Ubuntu servers �
 
 !\[GitHub Stats](https://github-readme-stats.vercel.app/api?username=MoominRasool\&show\_icons=true\&theme=tokyonight\&hide\_border=true)
 
-*Open to DevOps / Platform Engineering roles · 2026*
+*Open to DevOps / SRE / System Admin / Platform Engineering roles · 2026*
 
 </div>
 
